@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c5af6f12-9144-4e7c-b72b-b00a0d7bf3b4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Exam 2/OOP_Exceptions_collections_equals_hash_code_Exam M.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/equals and hashcode/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/equals and hashcode/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/equals and hashcode/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/equals and hashcode/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/equals and hashcode/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/equals and hashcode/equals and hashcode.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/equals and hashcode/src/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/equals and hashcode/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/equals and hashcode/src/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/equals and hashcode/src/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/equals and hashcode/src/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/equals and hashcode/src/explaining.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Collections/Data structures implementation/Data Structure implementation.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exception Handling/ExceptionHandling/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exception Handling/ExceptionHandling/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exception Handling/ExceptionHandling/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exception Handling/ExceptionHandling/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exception Handling/ExceptionHandling/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exception Handling/ExceptionHandling/ExceptionHandling.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exception Handling/ExceptionHandling/src/InvalidAgeException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exception Handling/ExceptionHandling/src/InvalidNumberException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exception Handling/ExceptionHandling/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exception Handling/ExceptionHandling/src/test.text" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/OOP Summary/OOP Summary.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 1/A-Hello/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 1/A-Hello/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 1/A-Hello/bin/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 1/A-Hello/bin/Welcome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 1/A-Hello/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 1/A-Hello/src/Welcome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 1/K-Max And Min/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 1/K-Max And Min/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 1/K-Max And Min/bin/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 1/K-Max And Min/bin/Numbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 1/K-Max And Min/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 1/K-Max And Min/src/Numbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 1/O-Calculator/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 1/O-Calculator/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 1/O-Calculator/bin/Calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 1/O-Calculator/bin/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 1/O-Calculator/src/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 1/O-Calculator/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 1/R-Age In Days/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 1/R-Age In Days/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 1/R-Age In Days/bin/Age.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 1/R-Age In Days/bin/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 1/R-Age In Days/src/Age.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 1/R-Age In Days/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 1/X-Tow Intervals/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 1/X-Tow Intervals/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 1/X-Tow Intervals/bin/Interval.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 1/X-Tow Intervals/bin/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 1/X-Tow Intervals/src/Interval.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 1/X-Tow Intervals/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 1/Z-HardCompare/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 1/Z-HardCompare/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 1/Z-HardCompare/bin/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 1/Z-HardCompare/bin/PowerElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 1/Z-HardCompare/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 1/Z-HardCompare/src/PowerElement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 2/A-Winter Sale/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 2/A-Winter Sale/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 2/A-Winter Sale/bin/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 2/A-Winter Sale/bin/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 2/A-Winter Sale/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 2/A-Winter Sale/src/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 2/B-Memo and Momo/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 2/B-Memo and Momo/H-Data Type Guessing/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 2/B-Memo and Momo/H-Data Type Guessing/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 2/B-Memo and Momo/H-Data Type Guessing/bin/DataTypeGuessing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 2/B-Memo and Momo/H-Data Type Guessing/bin/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 2/B-Memo and Momo/H-Data Type Guessing/src/DataTypeGuessing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 2/B-Memo and Momo/H-Data Type Guessing/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 2/B-Memo and Momo/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 2/B-Memo and Momo/bin/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 2/B-Memo and Momo/bin/Nums.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 2/B-Memo and Momo/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 2/B-Memo and Momo/src/Nums.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 2/C-Next Alphabet/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 2/C-Next Alphabet/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 2/C-Next Alphabet/bin/Alphabet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 2/C-Next Alphabet/bin/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 2/C-Next Alphabet/src/Alphabet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 2/C-Next Alphabet/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 2/D-Ali Baba and Puzzles/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 2/D-Ali Baba and Puzzles/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 2/D-Ali Baba and Puzzles/bin/AliBabaPuzzle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 2/D-Ali Baba and Puzzles/bin/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 2/D-Ali Baba and Puzzles/src/AliBabaPuzzle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 2/D-Ali Baba and Puzzles/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 2/E-Interval Sweep/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 2/E-Interval Sweep/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 2/E-Interval Sweep/bin/IntervalSweep.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 2/E-Interval Sweep/bin/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 2/E-Interval Sweep/src/IntervalSweep.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 2/E-Interval Sweep/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 2/G-Katryoshka/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 2/G-Katryoshka/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 2/G-Katryoshka/bin/Katryoshka.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 2/G-Katryoshka/bin/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 2/G-Katryoshka/src/Katryoshka.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 2/G-Katryoshka/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 2/I-Lucky Numbers/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 2/I-Lucky Numbers/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 2/I-Lucky Numbers/bin/LuckyNumberChecker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 2/I-Lucky Numbers/bin/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 2/I-Lucky Numbers/src/LuckyNumberChecker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 2/I-Lucky Numbers/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 3/1 to N/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 3/1 to N/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 3/1 to N/bin/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 3/1 to N/bin/Num.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 3/1 to N/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 3/1 to N/src/Num.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 3/H-One Prime/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 3/H-One Prime/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 3/H-One Prime/bin/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 3/H-One Prime/bin/Primes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 3/H-One Prime/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 3/H-One Prime/src/Primes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 3/O-Pyramid/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 3/O-Pyramid/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 3/O-Pyramid/bin/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 3/O-Pyramid/bin/Triangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 3/O-Pyramid/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 3/O-Pyramid/src/Triangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 3/V-PUM/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 3/V-PUM/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 3/V-PUM/bin/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 3/V-PUM/bin/Pum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 3/V-PUM/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 3/V-PUM/src/Pum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Task 4/Exam.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../equals and hashcode/equals and hashcode/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../equals and hashcode/equals and hashcode/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../equals and hashcode/equals and hashcode/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../equals and hashcode/equals and hashcode/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../equals and hashcode/equals and hashcode/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../equals and hashcode/equals and hashcode/equals and hashcode.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../equals and hashcode/equals and hashcode/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../equals and hashcode/equals and hashcode/src/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../equals and hashcode/equals and hashcode/src/explaining.docx" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="3IXGG7Ta6c4AiHDN8xofYSTdQFW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/leader/Documents/JavaTasks/level-1/4.equals and hashcode"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c5af6f12-9144-4e7c-b72b-b00a0d7bf3b4" name="Changes" comment="" />
+      <created>1787903400254</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1787903400254</updated>
+    </task>
+    <servers />
+  </component>
+</project>
